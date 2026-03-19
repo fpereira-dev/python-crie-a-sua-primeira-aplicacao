@@ -1,4 +1,4 @@
-# 🐍 Python: Crie a sua primeira aplicação
+# 🐍 Python: crie a sua primeira aplicação
 
 Este repositório foi criado para armazenar o progresso, exercícios e projetos práticos realizados durante o curso de Fundamentos de Python. O foco principal é aprender a sintaxe da linguagem, estruturas de dados e boas práticas de desenvolvimento.
 
